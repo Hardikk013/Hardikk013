@@ -55,7 +55,6 @@ fun_fact: "Debugging is 90% of the job, and I'm okay with that ☕"
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Hardikk013&label=Profile%20Views&color=6A11CB&style=for-the-badge" alt="profile views"/>
 
 ### ⭐ If you like what you see, feel free to star a repo!
 
