@@ -44,7 +44,6 @@ fun_fact: "Debugging is 90% of the job, and I'm okay with that ☕"
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Hardikk013&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Hardikk013&theme=dark&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hardikk013&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="49%"/>
