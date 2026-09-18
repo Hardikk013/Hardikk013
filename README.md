@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:6A11CB&height=220&section=header&text=Hi%20There,%20I'm%20Hardik!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:6A11CB&height=220&section=header&text=Hi%20There,%20I'm%20Hardik!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Competitive+Programmer+%E2%9A%A1;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%8C%B1;Competitive+Programmer+%E2%9A%A1;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ```yaml
 name: Hardik
-role: Software Developer
+role: Student
 location: India
 currently_learning: [System Design, Advanced DSA]
 currently_building: something awesome 👀
@@ -49,32 +49,6 @@ fun_fact: "Debugging is 90% of the job, and I'm okay with that ☕"
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hardikk013&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="49%"/>
 
-</div>
-
-<br/>
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardikk013&theme=react-dark&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Hardikk013/Hardikk013/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
-
-> ⚙️ Note: The snake animation needs a one-time GitHub Actions setup in this repo — see the setup note at the bottom of this file.
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hardikk013&theme=algolia&no-frame=true&row=1&column=7"/>
 </div>
 
 <br/>
